@@ -1,0 +1,6 @@
+[submodule "libs/Adafruit_NeoPixel"]
+	path = libs/Adafruit_NeoPixel
+	url = git@github.com:0m-ax/Adafruit_NeoPixel.git
+[submodule "ArduinoCore-raspbian"]
+	path = ArduinoCore-raspbian
+	url = git@github.com:0m-ax/ArduinoCore-raspbian.git
